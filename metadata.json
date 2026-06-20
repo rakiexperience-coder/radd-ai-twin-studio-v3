@@ -1,0 +1,8 @@
+{
+  "name": "RADD AI Twin Studio v3.0",
+  "description": "An application for users to upload a reference photo and generate ultra-realistic AI twin portraits using Gemini with license gate and BYOK support.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
