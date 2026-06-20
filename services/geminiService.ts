@@ -96,3 +96,4 @@ export const generateImages = async (
 
   return generatedImages;
 };
+
